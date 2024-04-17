@@ -1,0 +1,1 @@
+bash: mem: command not found
